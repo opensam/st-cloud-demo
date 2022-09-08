@@ -1,0 +1,14 @@
+convertdate
+matplotlib=3.5.2
+matplotlib-inline=0.1.3
+numpy==1.22.4
+pandas==1.4.2
+pathtools
+plotly=5.9.0
+prophet==1.1
+python-dateutil
+scikit-learn==1.1.1
+scipy==1.8.1
+seaborn=0.11.2
+sklearn
+streamlit==1.12.2
